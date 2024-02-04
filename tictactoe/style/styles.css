@@ -6,7 +6,7 @@
 
 :root {
   --orange: #F2C14E;
-  --winning-blocks: #2d414b;
+  --winning-blocks: #a02c05;
 }
 
 body {
@@ -25,7 +25,7 @@ h1 {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-color: #37505C;
+  background-color: #840d0d;
 }
 
 #gameboard {
